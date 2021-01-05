@@ -1,0 +1,10 @@
+.header{
+    width: 100vw;
+    height: 90vh;
+    background: #000;
+}
+.header > h1 {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
